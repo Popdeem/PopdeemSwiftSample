@@ -1,0 +1,57 @@
+/*
+ Localizable.strings
+ Tabbed Sample
+ 
+ Created by Niall Quinn on 10/04/2018.
+ Copyright © 2018 Niall Quinn. All rights reserved.
+ */
+
+"popdeem.home.header.titleText" = "";
+"popdeem.home.title" = "";
+
+"popdeem.gratitude.creditCoupon.title.1" = "You are brilliant!";
+"popdeem.gratitude.creditCoupon.body.1" = "Thanks for sharing. %@ has been added to your account.";
+"popdeem.gratitude.creditCoupon.title.2" = "Thanks for sharing!";
+"popdeem.gratitude.creditCoupon.body.2" = "%@ has been added to your account";
+"popdeem.gratitude.creditCoupon.title.3" = "Amazing!";
+"popdeem.gratitude.creditCoupon.body.3" = "Thanks for sharing your Krispy Kreme moment. %@ has been added to your account";
+
+"popdeem.gratitude.coupon.title.1" = "You are brilliant!";
+"popdeem.gratitude.coupon.body.1" = "Thanks for sharing. Your reward has been added to your profile.";
+"popdeem.gratitude.coupon.title.2" = "Thanks for sharing!";
+"popdeem.gratitude.coupon.body.2" = "Your reward has been added to your profile";
+"popdeem.gratitude.coupon.title.3" = "Amazing!";
+"popdeem.gratitude.coupon.body.3" = "Thanks for sharing your Krispy Kreme moment. Your reward has been added to your profile.";
+
+"popdeem.gratitude.sweepstake.title.1" = "Thanks for sharing!";
+"popdeem.gratitude.sweepstake.body.1" = "You have successfully entered the competition, check your profile to know when the winner is announced.";
+"popdeem.gratitude.sweepstake.title.2" = "You are in!";
+"popdeem.gratitude.sweepstake.body.2" = "You have been entered into the competition, we will let you know if you are the winner.";
+"popdeem.gratitude.sweepstake.title.3" = "Great stuff.";
+"popdeem.gratitude.sweepstake.body.3" = "Check your profile to find out when the winner is announced.";
+
+"popdeem.gratitude.connect.title.1" = "Thanks for connecting.";
+"popdeem.gratitude.connect.body.1" = "You can now earn additional rewards when you share your #KrispyKreme experience";
+"popdeem.gratitude.connect.title.2" = "You're in!";
+"popdeem.gratitude.connect.body.2" = "Share your #KrispyKreme experience to earn additional rewards.";
+"popdeem.gratitude.connect.title.3" = "Success!";
+"popdeem.gratitude.connect.body.3" = "You can now earn additional rewards and prizes when you share your #KrispyKreme moments on social media.";
+
+"popdeem.sociallogin.title.1" = "Connect your social media accounts to earn additional rewards!";
+"popdeem.sociallogin.body.1" = "";
+"popdeem.sociallogin.title.2" = "Connect your social media accounts to earn additional rewards!";
+"popdeem.sociallogin.body.2" = "";
+"popdeem.sociallogin.title.3" = "Connect your social media accounts to earn additional rewards!";
+"popdeem.sociallogin.body.3" = "";
+
+
+"popdeem.home.segmentedControl.wallet" = "PROFILE";
+"popdeem.home.segmentedControl.rewards" = "REWARDS";
+"popdeem.home.segmentedControl.activity" = "ACTIVITY";
+
+"popdeem.sociallogin.twitterButtonText" = "CONNECT TWITTER";
+"popdeem.sociallogin.instagramButtonText" = "CONNECT INSTAGRAM";
+"popdeem.sociallogin.facebookButtonText" = "CONNECT FACEBOOK";
+
+"popdeem.claim.checkinLocation" = "Krispy Kreme";
+

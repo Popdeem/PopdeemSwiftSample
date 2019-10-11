@@ -1,0 +1,71 @@
+PODS:
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - FBSDKCoreKit (5.6.0):
+    - FBSDKCoreKit/Basics (= 5.6.0)
+    - FBSDKCoreKit/Core (= 5.6.0)
+  - FBSDKCoreKit/Basics (5.6.0)
+  - FBSDKCoreKit/Core (5.6.0):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (5.6.0):
+    - FBSDKLoginKit/Login (= 5.6.0)
+  - FBSDKLoginKit/Login (5.6.0):
+    - FBSDKCoreKit (~> 5.0)
+  - FBSDKShareKit (5.6.0):
+    - FBSDKShareKit/Share (= 5.6.0)
+  - FBSDKShareKit/Share (5.6.0):
+    - FBSDKCoreKit (~> 5.0)
+  - JSONModel (1.8.0)
+  - PopdeemSDK (1.2.18):
+    - PopdeemSDK/Core (= 1.2.18)
+  - PopdeemSDK/Core (1.2.18):
+    - Bolts
+    - FBSDKCoreKit (~> 5.6.0)
+    - FBSDKLoginKit (~> 5.6.0)
+    - FBSDKShareKit (~> 5.6.0)
+    - JSONModel
+    - Realm
+    - Shimmer
+    - TOCropViewController
+  - PopdeemSDK/UIKit (1.2.18):
+    - PopdeemSDK/Core
+  - Realm (3.19.0):
+    - Realm/Headers (= 3.19.0)
+  - Realm/Headers (3.19.0)
+  - Shimmer (1.0.2)
+  - TOCropViewController (2.5.1)
+
+DEPENDENCIES:
+  - PopdeemSDK
+  - PopdeemSDK/UIKit
+
+SPEC REPOS:
+  trunk:
+    - Bolts
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - FBSDKShareKit
+    - JSONModel
+    - PopdeemSDK
+    - Realm
+    - Shimmer
+    - TOCropViewController
+
+SPEC CHECKSUMS:
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  FBSDKCoreKit: d6655a343868d4bb5c29a60859bab07c3be14a0b
+  FBSDKLoginKit: c5a623de88a6b0cda35b35582921f6cec2efcc36
+  FBSDKShareKit: 0d8c4cfd5c1f185d5f9c26d79758b141086e1251
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+  PopdeemSDK: 0278cec69252f10f6be4d006facab049b9840293
+  Realm: 995d585bcf699aaff226715886c849a29dd3d07f
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  TOCropViewController: 00dc36c4e4a0f4a45efa91adbf22df8a4fae01d3
+
+PODFILE CHECKSUM: fc12b01922516af5cb98d8789fb17004b186c81d
+
+COCOAPODS: 1.8.3

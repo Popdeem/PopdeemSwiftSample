@@ -1,0 +1,61 @@
+{
+    "popdeem" : {
+      "colors" : {
+          "primaryAppColor" : "#FFFFFF",
+          "secondaryAppColor" : "#F0B138",
+          "primaryInverseColor" : "#CB1530",
+          "viewBackgroundColor" : "#FFFFFF",
+          "primaryFontColor" : "#000000",
+          "secondaryFontColor" : "#A2A4A6",
+          "tableViewCellBackgroundColor" : "#FFFFFF",
+          "navBarTintColor" : "#CB1530",
+          "segmentedControlBackgroundColor" : "#FFFFFF",
+          "segmentedControlForegroundColor" : "#000000",
+          "homeHeaderTextColor" : "#000000",
+          
+          "buttonsColor" : "#CB1530",
+          "rewardActionColor" : "#A2A4A6"
+          
+      },
+      "images" : {
+        "loginImage" : "pd_social_login_image_3",
+        "socialLogin1" : "pd_social_login_image_3",
+        "socialLogin2" : "pd_social_login_image_3",
+        "socialLogin3" : "pd_social_login_image_3",
+        "defaultItemImage" : "pduikit_starG",
+        "homeHeaderImage" : "pd_header_image",
+        "settingsHeaderImage" : "pd_settings_header_image",
+        "dismissLoginImage" : "pduikit_x_blk",
+        "ambassadorIconImage" : "pd_gratitude_coupon_image_1",
+        "gratitudeConnect1" : "pd_gratitude_coupon_image_1",
+        "gratitudeConnect2" : "pd_gratitude_coupon_image_1",
+        "gratitudeConnect3" : "pd_gratitude_coupon_image_1",
+        "gratitudeCoupon1" : "pd_gratitude_coupon_image_1",
+        "gratitudeCoupon2" : "pd_gratitude_coupon_image_1",
+        "gratitudeCoupon3" : "pd_gratitude_coupon_image_1",
+        "gratitudeCreditCoupon1" : "pd_gratitude_coupon_image_1",
+        "gratitudeCreditCoupon2" : "pd_gratitude_coupon_image_1",
+        "gratitudeCreditCoupon3" : "pd_gratitude_coupon_image_1",
+        "gratitudeSweepstake1" : "pd_gratitude_coupon_image_1",
+        "gratitudeSweepstake2" : "pd_gratitude_coupon_image_1",
+        "gratitudeSweepstake3" : "pd_gratitude_coupon_image_1",
+
+        "socialLoginVariation" : "pd_social_login_design_variation_2"
+    },
+      "fonts" : {
+   
+        "primaryFont" : "BrandonGrotesque-Medium",
+        "boldFont" : "BrandonGrotesque-Bold",
+        "lightFont" : "BrandonGrotesque-Regular",
+        "navbarFont" : "BrandonGrotesque-Medium",
+        
+         "titleFontSize" : "20",
+         "bodyFontSize" : "17"
+
+    },
+      "nav" : {
+        "useTheme" : "true"
+      }
+    }
+  }
+  

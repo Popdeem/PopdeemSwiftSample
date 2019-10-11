@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Krispy Kreme</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,32 +15,86 @@
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
 	<key>CFBundlePackageType</key>
-	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
-	<key>CFBundleVersion</key>
-	<string>1</string>
-	<key>LSRequiresIPhoneOS</key>
-	<true/>
-	<key>UIApplicationSceneManifest</key>
-	<dict>
-		<key>UIApplicationSupportsMultipleScenes</key>
-		<false/>
-		<key>UISceneConfigurations</key>
+	<string>1.6</string>
+	<key>CFBundleURLTypes</key>
+	<array>
 		<dict>
-			<key>UIWindowSceneSessionRoleApplication</key>
+			<key>CFBundleURLName</key>
+			<string>com.popdeem.Krispy-Kreme</string>
+		</dict>
+		<dict>
+			<key>CFBundleURLSchemes</key>
 			<array>
-				<dict>
-					<key>UISceneConfigurationName</key>
-					<string>Default Configuration</string>
-					<key>UISceneDelegateClassName</key>
-					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
-					<key>UISceneStoryboardFile</key>
-					<string>Main</string>
-				</dict>
+				<string>twitterkit-emqGe55qItJqbnDrz4V8ldBOj</string>
+				<string>fb1706317436274686krispykreme</string>
 			</array>
 		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Fabric</key>
+	<dict>
+		<key>APIKey</key>
+		<string>f3e1331a9e08ff100bf63475f5ac2f67675253d6</string>
+		<key>Kits</key>
+		<array>
+			<dict>
+				<key>KitInfo</key>
+				<dict/>
+				<key>KitName</key>
+				<string>Crashlytics</string>
+			</dict>
+		</array>
 	</dict>
+	<key>FacebookAppID</key>
+	<string>1706317436274686</string>
+	<key>FacebookDisplayName</key>
+	<string>Popdeem</string>
+	<key>FacebookUrlSchemeSuffix</key>
+	<string>krispykreme</string>
+	<key>InstagramCallback</key>
+	<string>https://www.popdeem.com/igredirect</string>
+	<key>InstagramClientId</key>
+	<string>b070d2914a7743469a0e676b9cf4f92e</string>
+	<key>InstagramClientSecret</key>
+	<string>19b28dd656c242cfa90ebe50a708dd4d</string>
+	<key>LSApplicationCategoryType</key>
+	<string>App Transport Security Settings</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>instagram</string>
+		<string>fb</string>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+		<string>twitter</string>
+		<string>twitterauth</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LocationName</key>
+	<string>Krispy Kreme Ireland</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>We use your camera to take photos</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We use your location to deliver local rewards</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We use your photos for sharing</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Brandon_reg.otf</string>
+		<string>Brandon_bld.otf</string>
+		<string>Brandon_med.otf</string>
+		<string>Brandon_blk.otf</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
@@ -50,8 +106,6 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
